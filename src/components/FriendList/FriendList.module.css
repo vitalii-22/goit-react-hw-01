@@ -1,0 +1,18 @@
+.userFriendList {
+  font-family: Roboto;
+  font-size: 20px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  gap: 30px;
+}
+
+.userFriendItem {
+  box-sizing: border-box;
+  width: 90px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
