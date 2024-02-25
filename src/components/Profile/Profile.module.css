@@ -9,7 +9,7 @@
   max-width: 240px;
   border: 1px solid #0a0909;
   border-radius: 10px;
-  margin-bottom: 20px;
+  margin: 0 auto 20px;
 }
 
 .cardHeadContainer {

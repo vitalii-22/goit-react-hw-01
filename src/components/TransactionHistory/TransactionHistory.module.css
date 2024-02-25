@@ -1,0 +1,25 @@
+.tableContainer {
+  border-collapse: collapse;
+  margin: 0 auto;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 20px;
+  max-width: 600px;
+  width: 100%;
+  border: 1px solid black;
+}
+
+.tableHead {
+  background: rgb(31, 24, 24);
+  color: aliceblue;
+}
+
+.tableHeadItem {
+  border: 1px solid black;
+}
+
+.tableItem {
+  text-transform: capitalize;
+  border: 1px solid black;
+  text-align: center;
+}
