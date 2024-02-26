@@ -22,3 +22,8 @@ img {
 li {
   list-style-type: none;
 }
+
+body {
+  font-family: Roboto;
+  font-weight: 400;
+}
